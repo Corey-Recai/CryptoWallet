@@ -1,1 +1,0 @@
-export * from './vector.style.jsx'

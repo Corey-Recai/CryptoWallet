@@ -1,1 +1,0 @@
-export * from './searchField/searchField.component.jsx';
