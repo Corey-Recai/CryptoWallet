@@ -1,0 +1,1 @@
+export * from './searchIcon/searchIcon.component.jsx'

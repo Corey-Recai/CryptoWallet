@@ -1,0 +1,1 @@
+export const getStyles = (styleObject) => Object.entries(styleObject).map(([style, value]) =>`${style}: ${value};`);
